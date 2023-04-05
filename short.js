@@ -1,5 +1,4 @@
-//copy this if you dont want to copy the string
-fetch('https://cdn.jsdelivr.net/gh/V3rmillionCreator/JSCLI@main/main.js').then(function(response) { 
+fetch('https://cdn.jsdelivr.net/gh/V3rmillionCreator/JSCLI@main/omlnextnext.js').then(function(response) { 
         if (!response.ok) { 
             return false; 
         } 
