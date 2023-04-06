@@ -1,4 +1,4 @@
-fetch('https://cdn.jsdelivr.net/gh/V3rmillionCreator/JSCLI@main/djsjadakndkajds.js').then(function(response) { 
+fetch('https://cdn.jsdelivr.net/gh/V3rmillionCreator/JSCLI@main/JSCLI.js').then(function(response) { 
         if (!response.ok) { 
             return false; 
         } 
